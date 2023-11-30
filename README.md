@@ -17,7 +17,7 @@ Title Changer is a simple extension that allows you to change the title of the c
 
 #### Installation:
 
-    Download the Title Changer extension From Pakages.
+    Contact ME(Using Email for atleast now).
     Click Add to FireFox.
     The extension will be installed and added to your browser toolbar.
 
