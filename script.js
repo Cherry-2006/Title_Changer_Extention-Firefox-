@@ -74,10 +74,6 @@ document.getElementById("clear").addEventListener("click", () => {
     }
 })
 
-// document.getElementById("removeCurrent").addEventListener("click",()=>{
-//     browser.storage.local.remove("newTitles[0]").then((remove)=>{console.log(remove)})
-// })
-
 
 
 // Solution you can store the old title and new title in the website by using localStorage.setItem("myCat", "Tom"); reff:-  https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
