@@ -37,7 +37,7 @@ The new title will be displayed in the tab and stored for future use.
 #### Please note: 
     For now it just saves all changed tabs titles but cannot delete specific title
 
-    The extension is currently only compatible with Chrome.
+    The extension is currently only compatible with FireFox.
     
     This extension is still under development, and new features may be added or existing features may be changed in future versions.
 
